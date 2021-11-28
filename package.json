@@ -4,5 +4,9 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "dependencies": {
+    "jest-changed-files": "^27.3.0",
+    "jest-diff": "^27.3.1"
   }
 }
