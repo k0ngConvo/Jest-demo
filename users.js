@@ -1,4 +1,4 @@
-const axios = require('axios');
+/* const axios = require('axios');
 
 class Users {
 
@@ -8,4 +8,4 @@ class Users {
       }
 }
 
-module.exports = Users;
+module.exports = Users; */
